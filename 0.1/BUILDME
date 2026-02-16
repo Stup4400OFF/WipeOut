@@ -1,0 +1,2 @@
+pip install pyinstaller
+pyinstaller "main.py" --collect-all "cryptography" --onefile --icon "core/exec.ico"
