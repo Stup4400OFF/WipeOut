@@ -1,1 +1,0 @@
-cd "C:\Users\Olico\PycharmProjects\WipeOut" && .venv\Scripts\activate && python main.py
