@@ -1,0 +1,13 @@
+pip install pyinstaller
+pyinstaller "main.py" --collect-all "cryptography" --onefile --icon "core/exec.ico"
+
+then remove
+main.spec
+/build
+
+and keep
+/dist/main.exe
+/DATA
+/core
+
+then remove /dist once main.exe is copied to a safe place (along with /core && /DATA but keep those)

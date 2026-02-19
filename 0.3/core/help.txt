@@ -1,0 +1,16 @@
+### WipeOut V0.2
+[help|-h] - The help menu
+#### Classic
+[reset|clear|cls] Reset (clear) the console
+[quit|exit|bye] Exit WipeOut
+[tree|get] Print a tree of the system
+#### Dangerous
+[wipeoutSYS|rm -rf sys] Reset the WHOLE system (VERY dangerous)
+#### File Utils
+[edit|notepad] Edit a file
+[read|me] Read a file
+[del|rem] Remove a file
+[remdir|remove] Remove a directory
+[makefile|touch] Create a file
+[dir|new] Create a new directory
+[edit|notepad] Edit a file
