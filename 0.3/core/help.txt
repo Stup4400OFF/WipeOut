@@ -1,4 +1,4 @@
-### WipeOut V0.2
+### WipeOut V0.3
 [help|-h] - The help menu
 #### Classic
 [reset|clear|cls] Reset (clear) the console
@@ -13,4 +13,5 @@
 [remdir|remove] Remove a directory
 [makefile|touch] Create a file
 [dir|new] Create a new directory
+
 [edit|notepad] Edit a file
